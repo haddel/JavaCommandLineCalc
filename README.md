@@ -1,7 +1,6 @@
 # JavaCommandLineCalc
-Just a simple command line calculater, written for school :D
+Simple school project.
 
-You can give the jar one argument and it will print the result on the command line :D
-
+e.g.
 java -jar Calculator.jar 5+5*2
 
